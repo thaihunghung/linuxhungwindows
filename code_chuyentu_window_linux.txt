@@ -1,0 +1,10 @@
+scp "D:\VituaBox_Store\hunglinux1\hunglinux1\key_mongodb\mongodb-org-server_6.0.6_amd64.deb" hungbadao@192.168.1.11:/home/
+
+
+doc:https://docs.google.com/document/d/10Fyw3Uzp7rYSU0QBWxWg774T1EQutK-savwVBk_DVfY/edit?usp=sharing
+
+
+bước 2:sudo dpkg -i mongodb-org-server_6.0.6_amd64.deb
+bước 3:sudo systemctl status mongod 
+
+bước 3:sudo systemctl start mongod  _
